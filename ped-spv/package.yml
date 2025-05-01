@@ -85,4 +85,3 @@ matches:
   replace: "Siska Permanasari Sinardja, MD, PAED"
 - trigger: ";karma"
   replace: "I Made Karma Setiyawan, MD, PAED"
-- trigger: ":profhen"

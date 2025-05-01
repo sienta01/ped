@@ -170,4 +170,4 @@ matches:
 - trigger: ":sis"
   replace: "dr. Siska Permanasari Sinardja Sp.A"
 - trigger: ":karm"
-  replace: "dr. I Made Karma Setiyawan, Sp.A"
+  replace: "dr. I Made Karma Setiyawan, Sp.A" 
